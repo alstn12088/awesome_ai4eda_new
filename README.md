@@ -1,4 +1,4 @@
-# Awesome AI for EDA New
+# Awesome AI for EDA Version 2
 
 This is survey repositary of AI based EDA researches. 
 
