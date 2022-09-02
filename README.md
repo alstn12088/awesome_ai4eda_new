@@ -1,4 +1,8 @@
-# Awesome AI for EDA
+# Awesome AI for EDA New
+
+This is survey repositary of AI based EDA researches. 
+
+Originally this reporsitary is founded by (https://github.com/thu-nics/awesome_ai4eda), we revise it as new version. 
 
 ## Table of Contents
   - [Surveys](#survey)
