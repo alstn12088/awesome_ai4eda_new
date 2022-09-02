@@ -7,6 +7,8 @@ Originally this reporsitary is founded by (https://github.com/thu-nics/awesome_a
 ## Table of Contents
   - [Surveys](#survey)
   - [Papers](#papers)
+    - [Equalizer Design](#equalizer-deisgn)
+    - [Power Distribution Network Design](#power-distribution-network-design)
     - [High Level Synthesis](#high-level-synthesis)
     - [Logic Synthesis](#logic-synthesis)
     - [FloorPlanning & Placement](#floorplanning--placement)
@@ -38,10 +40,14 @@ Originally this reporsitary is founded by (https://github.com/thu-nics/awesome_a
 ## Papers
 
 
-### Equalizer Optimization
+### Equalizer Design
 
+Equalizer is essential for high-speed communication of hardware devices. Recent ml-based studies focus to find fast optimization techniques for equlizer design. 
 
-### Power Distribution Network 
+### Power Distribution Network Design
+
+Power distribution network (PDN) is essential component for modern electrical devices. Researches can be categorized in two part: ML=based impedance prediction of PDN and ML-based placement optimization researches. 
+
 
 #### Impedance Prediction
 
