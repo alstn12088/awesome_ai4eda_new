@@ -32,7 +32,8 @@ Originally this reporsitary is founded by (https://github.com/thu-nics/awesome_a
   * *Manish Pandey. ASP-DAC 2018*
 * New directions for learning-based IC design tools and methodologies [[pdf]](https://vlsicad.ucsd.edu/Publications/Conferences/352/c352.pdf)
   * *Andrew B. Kahng. ASP-DAC 2018*
-
+* Demystifying Machine Learning for Signal and Power Integrity Problems in Packaging [[pdf]](https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/c/2094/files/2021/06/paper_3.01.pdf)
+  * *Madhavan. Swaminathan IEEE TCPMT 2020*
 
 ## Papers
 ### High Level Synthesis
