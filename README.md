@@ -41,11 +41,17 @@ Originally this reporsitary is founded by (https://github.com/thu-nics/awesome_a
 ### Equalizer Optimization
 
 
-### Decap Placement on Power Distribution Network 
+### Power Distribution Network 
 
 #### Impedance Prediction
 
 #### Optimal Placement
+
+* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
+  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
+
+
+
 
 
 ### High Level Synthesis
@@ -92,10 +98,6 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
 * DRiLLS: Deep Reinforcement Learning for Logic Synthesis [[pdf]](https://ieeexplore.ieee.org/document/9045559/)
   * *Abdelrahman Hosny, Soheil Hashemi, Mohamed Shalan, Sherief Reda. ASP-DAC 2020*
 
-### Power Network
-
-* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
-  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
 
 ### FloorPlanning & Placement
 
@@ -124,6 +126,11 @@ Based on the netlist after synthesis, FloorPlanning and Placement aim to assign 
 
 * Placement and routing for 3D-FPGAs using reinforcement learning and support vector machines [[pdf]](https://ieeexplore.ieee.org/abstract/document/1383317)
   * *R. Manimegalai, E. Siva Soumya, V. Muralidharan, B. Ravindran, V. Kamakoti, D. Bhatia. VLSID 2005*
+
+#### Reinforcement Learning
+
+
+
 
 ### Routing
 
